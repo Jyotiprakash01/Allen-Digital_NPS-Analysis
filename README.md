@@ -1,5 +1,14 @@
 # Allen Students - NPS Survey Analysis
 
+## Objective: 
+Analyze NPS survey responses to understand student satisfaction and dissatisfaction drivers.
+
+## Data Overview: 
+~1000 student responses collected.
+
+## Purpose: 
+Identify key improvement areas and strengths of the Allen Learning App.
+
 DataSet :https://github.com/Jyotiprakash01/Allen-Digital_NPS-Analysis/blob/main/NPS%20Dec-Jan%20Raw%20data.xlsx
 
 ## Tools Used:
@@ -71,7 +80,16 @@ For Marketing Teams:
 For Support/Onboarding:
 - Provide better guidance/tutorials for Detractors to find features and use Homework/Practice modules.
 
+## Data Preparation for Qualitative Responses
 
+- Split multiple statements in a single cell based on delimiter (commas) in Column C: "Top improvements suggested" and Column D: "Positive aspects liked"
+- To execute this, I've uploaded the excel into Google Colab. Ensured each suggestion/feedback point was treated separately.
+
+```python
+import pandas as pd
+df = pd.read_excel("[Assignment] NPS Dec-Jan (1) (2)(1).xlsx")
+display(df.head())
+```
 
 
 
