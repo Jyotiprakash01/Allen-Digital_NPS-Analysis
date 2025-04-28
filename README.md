@@ -56,6 +56,20 @@ Takeaway: These users are on the fence. Improving their weaker rated experiences
 
 Takeaway: These are the main pain points causing dissatisfaction. Focus efforts here to reduce churn and improve experience.
 
+## Recommendations for features
+
+For Product/Operations Teams:
+- Redesign or improve:
+- Mind & body sessions
+- Mentorship structure
+- Homework & Custom Practice tracking/usability
+
+For Marketing Teams:
+- Highlight top-rated features loved by Promoters in your campaigns.
+- Consider using quotes from “Test & Insights” and “Live Class” experiences.
+
+For Support/Onboarding:
+- Provide better guidance/tutorials for Detractors to find features and use Homework/Practice modules.
 
 
 
