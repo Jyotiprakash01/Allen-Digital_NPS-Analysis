@@ -446,6 +446,32 @@ Recommendations:
 - Feedback Loop: Regularly collect and act on student feedback to address specific pain points (e.g., timings, fees).
 
 
+# Final Takeaways
+- Majority are happy, but time to resolution is a concern → focus on speed and efficiency
+- Detractors need immediate attention → treat them like an early warning system
+- Unengaged users are a missed opportunity → nurture them with proactive support visibility
+- Survey strategy needs to evolve → deeper insights come from context, segmentation, and tracking change over time
+- Improve Speed Without Compromising Quality
+    Set internal SLAs (e.g., <24 hrs resolution for 80% of cases)
+    Introduce AI chatbots and automated FAQs for faster replies
+- Detractor-Centric Interventions
+    Identify and re-engage students marked as Detractors | Offer personalized follow-up or service recovery gestures | Use feedback loops to analyze why they rated low
+- Proactive Support for Non-Contacted Students
+    17.1% never used customer support | Run a pulse check campaign: “We’re here for you. Have you ever faced an issue but didn’t know whom to ask?” | Create onboarding videos or WhatsApp nudges to promote support usage
+- Enhance Promoter Loyalty
+    Thank and recognize Promoters – offer referral programs or exclusive content | Use their stories as testimonials
+- Internal Quality Audits
+    Monitor how issues were handled (especially among Detractors and Passives) Identify tone gaps, delays, or missed follow-ups
+
+# Recommendations to Improve the Survey & Insights
+
+- Include questions on price perception/value for money.
+- Add segment-specific tags (course enrolled, city, time spent on platform) for deeper segmentation.
+- Include faculty-specific feedback (for targeted improvement).
+- Replace Yes/No-type answers with sentiment scales:
+    😠 Very Dissatisfied → 😐 Neutral → 😃 Very Satisfied
+    This gives a more nuanced understanding and better charts
+
 
 
 
